@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdbool.h>
-#include "C:/Users/tuanv/Documents/GitHub/labs-tvuong5/lab2/timer.h"
-#include "C:/Users/tuanv/Documents/SPO600/vol.h"
+#include "timer.h"
+#include "vol.h"
 #include <iostream>
 using namespace std;
 

@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\GitHub\labs-tvuong5\lab2\timer.h" />
-    <ClInclude Include="..\..\..\..\Documents\SPO600\vol.h" />
+    <ClCompile Include="timer.cpp" />
+    <ClCompile Include="vol.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\GitHub\labs-tvuong5\lab2\timer.cpp" />
-    <ClCompile Include="vol.cpp" />
+    <ClInclude Include="timer.h" />
+    <ClInclude Include="vol.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
